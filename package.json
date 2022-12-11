@@ -63,7 +63,7 @@
     "dotenv-webpack": "^1.7.0",
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.11.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fg-loadcss": "^2.1.0",
     "file-loader": "^3.0.1",
     "graphql": "^14.2.1",
